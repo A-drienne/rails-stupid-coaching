@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+ body {
+  font-family: "San Francisco (Numbers)", FreightSansPro, Helvetica, "sans-serif";
+  padding: 0px 16px;
+}
+
+  h1 {
+   padding: 24px 0px;
+  }
+
+ .answer {
+  background-color: #FFFFE1;
+ }
